@@ -41,7 +41,6 @@ return `
 ┃ ${p}destrava
 ┃ ${p}sugerircmd (txt)
 ┃ ${p}terbot
-┃ ${p}botvip
 ┃ ${p}blocklist
 ┃ ${p}blacklist
 ┃ ${p}criador
@@ -66,6 +65,12 @@ return `
 ┃ ${p}unblock (num)
 ┃ ${p}msginfo
 ┃ ${p}chatinfo
+┣━━━━━⏱️ 𝘾𝙊𝙉𝙏𝘼𝘿𝙊𝙍 ⏱️━━━━━╮
+┃ ${p}checkativo (dial)
+┃ ${p}rankativo
+┃ ${p}atividade
+┃ ${p}filtroativo
+┃ ${p}banativos
 ┣━━━━━🔇 𝙈𝙐𝙏𝘼𝙍 🔇━━━━━╮
 ┃ ${p}mute (marcar)
 ┃ ${p}desmute (marcar)
@@ -75,6 +80,7 @@ return `
 ┃ ${p}level (n/a, num)
 ┃ ${p}registerlevel
 ┣━━━━━⏳ 𝙇𝙄𝙈𝙄𝙏𝙀𝙎 ⏳━━━━╮
+┃ ${p}rmlimituser
 ┃ ${p}resetlimit
 ┃ ${p}limitcmd (1 or 0)
 ┃ ${p}mylimit
