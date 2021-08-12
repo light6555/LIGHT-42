@@ -65,6 +65,19 @@ return `
 ┃ ${p}unblock (num)
 ┃ ${p}msginfo
 ┃ ${p}chatinfo
+┣━━━━🗳️ 𝙑𝙊𝙏𝙊 🗳️━━━━╮
+┃ ${p}votohelp
+┃ ${p}votoinit
+┃ ${p}clearvoto
+┃ ${p}votostatus
+┃ ${p}voto
+┃ ${p}votofinish
+┃ ${p}gpvotohelp
+┃ ${p}gpvotoinit
+┃ ${p}gpclearvoto
+┃ ${p}gpvotostatus
+┃ ${p}gpvoto
+┃ ${p}gpvotofinish
 ┣━━━━━⏱️ 𝘾𝙊𝙉𝙏𝘼𝘿𝙊𝙍 ⏱️━━━━━╮
 ┃ ${p}checkativo (dial)
 ┃ ${p}rankativo
