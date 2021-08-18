@@ -9,7 +9,7 @@ return `
 ┃ ${wame}                                       
 ┃
 ┣━━ 𝑹𝑬𝑫𝑬𝑺 𝑺𝑶𝑪𝑰ALE𝑺 ━╮
-┃
+┃CREADOR LIGHT
 ┃ 
 ┃
 ┃ 🤖𝐆𝐢𝐭𝐡𝐮𝐛:
